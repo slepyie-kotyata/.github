@@ -25,7 +25,7 @@
 
 - **Frontend:** Angular 18, TailwindCSS, WebSocket
 - **Backend:** Go (Echo Framework), PostgreSQL
-- **Инфраструктура:** Docker
+- **Инфраструктура:** Docker + Dockploy
 
 ---
 
